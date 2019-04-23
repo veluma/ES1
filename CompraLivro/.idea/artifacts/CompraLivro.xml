@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CompraLivro">
+    <output-path>$PROJECT_DIR$/out/artifacts/CompraLivro</output-path>
+    <root id="archive" name="CompraLivro.jar">
+      <element id="module-output" name="CompraLivro" />
+      <element id="file-copy" path="$PROJECT_DIR$/Resources/DiagramaCompraLivro.pdf" />
+    </root>
+  </artifact>
+</component>
